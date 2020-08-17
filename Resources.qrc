@@ -6,5 +6,7 @@
         <file>Open.bmp</file>
         <file>Paste.bmp</file>
         <file>Save.bmp</file>
+        <file>yate.bmp</file>
+        <file>DeleteSticky.bmp</file>
     </qresource>
 </RCC>
